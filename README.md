@@ -27,7 +27,7 @@ td {border: none !important;}
 
 <div align="center">
   <!-- Thay username bằng username mới của bạn sau khi đổi -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/hi-taile">
     <img src="https://github-profile-trophy.vercel.app/?username=hi-taile&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
@@ -92,8 +92,8 @@ I don't just build API wrappers; I build scalable, agent-driven architectures.
 
 <div align="center">
   <!-- Thay username bằng username mới của bạn -->
-  <img src="https://github-readme-stats.vercel.app/api?username=leanhtaihcmus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdae" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leanhtaihcmus&theme=tokyonight&hide_border=true&background=0D1117&fire=38bdae&ring=38bdae" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hi-taile&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdae" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hi-taile&theme=tokyonight&hide_border=true&background=0D1117&fire=38bdae&ring=38bdae" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>

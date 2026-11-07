@@ -1,10 +1,3 @@
-<!-- Tắt các đường viền mặc định của bảng trên GitHub để layout sạch hơn -->
-<style>
-table {border: none !important;}
-tr {border: none !important;}
-td {border: none !important;}
-</style>
-
 <div align="center">
   <!-- Header Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋%20I'm%20Tai%20Le&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Fullstack%20Java%20%E2%9E%A1%EF%B8%8F%20Agentic%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
@@ -22,12 +15,11 @@ td {border: none !important;}
 
 <br/>
 
-<!-- GITHUB ACHIEVEMENTS (Gamification) -->
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <!-- Thay username bằng username mới của bạn sau khi đổi -->
-  <a href="https://github.com/ryo-ma/hi-taile">
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hi-taile&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
@@ -57,22 +49,17 @@ I don't just build API wrappers; I build scalable, agent-driven architectures.
 ## 🛠 Tech Stack & Arsenal
 
 <div align="center">
-  <!-- Ngôn ngữ & Frameworks -->
   <p><strong>Languages & Frameworks</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,python,go,bash" alt="Languages & Frameworks" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,python,go,bash" alt="Languages & Frameworks" />
   
-  <!-- Infrastructure & Tools -->
+  <br/><br/>
+  
   <p><strong>Infrastructure & Automation Tools</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,git,github,linux" alt="Infra Tools" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,git,github,linux" alt="Infra Tools" />
 </div>
 
 <br/>
 
-<!-- COLLAPSIBLE SECTION (The "banhsbao" style for deeper context) -->
 <details>
   <summary><b>⚙️ Under the Hood (Setup & Workflow)</b></summary>
   <br/>
@@ -91,7 +78,6 @@ I don't just build API wrappers; I build scalable, agent-driven architectures.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- Thay username bằng username mới của bạn -->
   <img src="https://github-readme-stats.vercel.app/api?username=hi-taile&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdae" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hi-taile&theme=tokyonight&hide_border=true&background=0D1117&fire=38bdae&ring=38bdae" alt="GitHub Streak" width="48%" />
 </div>
